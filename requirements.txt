@@ -6,3 +6,4 @@ pinecone-client
 beautifulsoup4
 requests
 streamlit
+langchain_community
