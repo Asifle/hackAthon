@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+langchain
+openai
+pinecone-client
+beautifulsoup4
+requests
+streamlit
